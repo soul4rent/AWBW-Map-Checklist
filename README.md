@@ -21,7 +21,7 @@
 - Is the number of unique features not absurd? (EX: 50 Com towers)
 - Are most cities spaced out more than 1 tile away from eachother?
 - Are most areas of the map reasonably used, and the unused areas "blocked off" by terrain? (EX: Sea tiles, mountains, pipes, large amounts of forest, etc)
-- Is there a reasonable number of pre-owned properties?
+- Is there a reasonable number of pre-owned properties? (Likely just a few bases and an HQ/Lab)
 - Is there some amount of terrain variety? (EX: The map isn't just all plains or all roads)
 
 ## Standard B Rank Map Checklist
