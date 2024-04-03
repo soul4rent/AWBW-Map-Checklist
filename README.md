@@ -1,2 +1,43 @@
 # AWBW-Map-Checklist
-A checklist for helping verify your map standards
+
+## Standard C Rank Checklist
+- Is the map mirrored in some form?
+- Are there no contested bases?
+- Are there no contested airports?
+- Are all bases at least 1.5 tank turns away from interaction?
+- Are all bases less than 5 tank turns away from interaction?
+- Are there no instant win features?
+- Are FTA counters implemented properly?
+  - Does one exist for the number of bases?
+- Are fronts at least 1 tank turn wide, or are they at least interesting?
+- Is the map reasonably playble?
+  - Is there some sort of interaction or threat before turn 10?
+  - Are there no obvious cheese strategies, or strategies that have significant first or second turn advantage?
+    - EX: Very easily accesible missile silos
+    - EX: HQs that one player can rush before the other can defend
+    - EX: A base where saving up enough money to build a piperunner wins the game with no counterplay
+- Are some of the income sources contested?
+- Is the income to base ratio not absurd (EX: Income is not 40,000 Income per base)
+- Is the number of unique features not absurd (EX: 50 Com towers)
+- Are most cities spaced out more than 1 tile away from eachother?
+- Are most areas of the map reasonably used, and the unused areas "blocked off" by terrain (EX: Sea tiles, mountains, pipes, large amounts of forest, etc)
+- Is there some amount of terrain variety? (EX: The map isn't just all plains or all roads)
+
+## Standard B Rank Checklist
+- Are there reasons to go specific places throughout the map? (Com towers, Airports, Contested Income Sources, Larger income sources, Lab Units)
+    - If a player wins a single area, is the game still reasonably winnable in some fashion? (EX: No "Win mid, win game")
+- Are there several interesting decisions when moving throughout the map?
+- Can players front switch to some degree?
+- Do fronts (in general) have non-stally features such as:
+  - Minimal defensive terrain around contested income sources
+  - Diagonal fronts
+  - X > 2 tile choke points
+- Is there a reasonable number of unique features?
+  - Airports (usually 1-2)
+  - Com towers (Usually 1-2 per player)
+- Are HQs/Labs positioned in a place where they aren't easily contested, where the optimal strategy is to focus the HQ?
+    - Is it possible for a player to push the Lab(s) or HQ(s) when they have a very large advantage to close out the game?
+- Is the opening order for the optimal non-recon units ABBA or BAAB?
+- Are bases responsible for a reasonable number of fronts? (1-3 per base)
+- Is the income to base ratio reasonable? (2 Bases: 6k-11k, 3 Bases: 5k - 9k)
+- If your map has pipe seams, does breaking them provide a reasonable amount of value (Not too much "instant win")?
