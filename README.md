@@ -47,3 +47,4 @@
 - Is there an even number of contested properties across all fronts?
 - If the map is an island hopping map, is there at least features that encourage dynamic play? (some pre-deployed landers so it isn't only infantry and air, larger islands that are multiple tank turns in size from the landing points, etc)
 - Is the Map not an absurd size? (EX: 50 x 50)
+- Is income spread reasonably equally between bases?
