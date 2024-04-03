@@ -44,7 +44,7 @@
 - Is the income to base ratio reasonable? (2 Bases: 6k-11k, 3 Bases: 5k - 9k)
 - If the map has pipe seams, does breaking them provide a reasonable amount of value (Not too much "instant win")?
 - If the map is an island hopping map, are there at features that encourage dynamic play? (some pre-deployed landers so it isn't only infantry and air, larger islands that are multiple tank turns in size from the landing points, etc)
-- Is the Map not an absurd size? (EX: 50 x 50)
+- Is the Map not an absurd size? (EX: 50 x 50, 10 x 10)
 - Is the income difference between capture phases for each base not absurd? (EX: strong side bases have 20 cities, weak side base has 5 cities)
 - Is the map somewhat readable and not extremely busy?
 - Are heavily contested bases placed in the middle of both player's tank turns?
