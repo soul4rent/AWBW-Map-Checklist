@@ -42,7 +42,7 @@
     - Is it possible for a player to push the Lab(s) or HQ(s) when they have a very large advantage to close out the game?
 - Are bases responsible for a reasonable number of fronts? (1-3 per base)
 - Is the income to base ratio reasonable? (2 Bases: 6k-11k, 3 Bases: 5k - 9k)
-- If your map has pipe seams, does breaking them provide a reasonable amount of value (Not too much "instant win")?
+- If the map has pipe seams, does breaking them provide a reasonable amount of value (Not too much "instant win")?
 - Is there an even number of contested properties across all fronts?
 - If the map is an island hopping map, are there at features that encourage dynamic play? (some pre-deployed landers so it isn't only infantry and air, larger islands that are multiple tank turns in size from the landing points, etc)
 - Is the Map not an absurd size? (EX: 50 x 50)
@@ -53,8 +53,8 @@
 ## Standard A Rank Map Checklist
 Note: This is where map ranking becomes a lot more subjective and difficult to rank. B rank maps are often picked for tournaments, and if people like them, they are promoted to B rank and vice versa.
 
-- Does your map have ABBA or BAAB opening vehicle order for the optimal vehicle, without specific FTA cheese strats?
+- Does the map have a ABBA or BAAB opening order for the optimal vehicle, without specific FTA cheese strats?
+    - If the map has a battlecopter opening, does it force FTA by requiring an AA to be built for first vehicle?
 - Is defensive terrain placed in locations that make the map more interesting to play?
 - Does the map allow multiple expressions of playstyles? (EX: A defensive playstyle vs an "all out attack" playstyle)
 - Are there many choices made throughout the map, most of which are non-obvious?
-
