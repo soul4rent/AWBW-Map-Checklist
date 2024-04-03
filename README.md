@@ -7,8 +7,6 @@
 - Are all bases at least 1.5 tank turns away from interaction?
 - Are all bases less than 5 tank turns away from interaction?
 - Are there no instant win features?
-- Are FTA counters implemented properly?
-  - Does one exist for the number of bases?
 - Are fronts at least several tiles wide?
 - Is the map reasonably playble?
   - Is there some sort of interaction or threat before turn 10?
@@ -27,6 +25,8 @@
 - Is there some amount of terrain variety? (EX: The map isn't just all plains or all roads)
 
 ## Standard B Rank Map Checklist
+- Are FTA counters implemented properly?
+  - Does one exist for the number of bases?
 - Are there reasons to go specific places throughout the map? (Com towers, Airports, Contested Income Sources, Larger income sources, Lab Units)
     - If a player wins a single area, is the game still reasonably winnable in some fashion? (EX: No "Win mid, win game")
 - Are there several interesting decisions when moving throughout the map?
