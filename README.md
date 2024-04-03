@@ -43,3 +43,4 @@
 - Are bases responsible for a reasonable number of fronts? (1-3 per base)
 - Is the income to base ratio reasonable? (2 Bases: 6k-11k, 3 Bases: 5k - 9k)
 - If your map has pipe seams, does breaking them provide a reasonable amount of value (Not too much "instant win")?
+- Is there an even number of contested properties across all fronts?
