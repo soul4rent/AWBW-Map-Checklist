@@ -17,10 +17,10 @@
     - EX: HQs that one player can rush before the other can defend
     - EX: A base where saving up enough money to build a piperunner wins the game with no counterplay
 - Are some of the income sources contested?
-- Is the income to base ratio not absurd (EX: Income is not 40,000 Income per base)
-- Is the number of unique features not absurd (EX: 50 Com towers)
+- Is the income to base ratio not absurd? (EX: Income is not 40,000 Income per base)
+- Is the number of unique features not absurd? (EX: 50 Com towers)
 - Are most cities spaced out more than 1 tile away from eachother?
-- Are most areas of the map reasonably used, and the unused areas "blocked off" by terrain (EX: Sea tiles, mountains, pipes, large amounts of forest, etc)
+- Are most areas of the map reasonably used, and the unused areas "blocked off" by terrain? (EX: Sea tiles, mountains, pipes, large amounts of forest, etc)
 - Is there some amount of terrain variety? (EX: The map isn't just all plains or all roads)
 
 ## Standard B Rank Map Checklist
