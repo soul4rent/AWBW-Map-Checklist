@@ -1,6 +1,6 @@
 # AWBW-Map-Checklist
 
-## Standard C Rank Checklist
+## Standard C Rank Map Checklist
 - Is the map mirrored in some form?
 - Are there no contested bases?
 - Are there no contested airports?
@@ -23,7 +23,7 @@
 - Are most areas of the map reasonably used, and the unused areas "blocked off" by terrain (EX: Sea tiles, mountains, pipes, large amounts of forest, etc)
 - Is there some amount of terrain variety? (EX: The map isn't just all plains or all roads)
 
-## Standard B Rank Checklist
+## Standard B Rank Map Checklist
 - Are there reasons to go specific places throughout the map? (Com towers, Airports, Contested Income Sources, Larger income sources, Lab Units)
     - If a player wins a single area, is the game still reasonably winnable in some fashion? (EX: No "Win mid, win game")
 - Are there several interesting decisions when moving throughout the map?
