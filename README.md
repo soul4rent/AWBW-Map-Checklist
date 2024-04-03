@@ -35,7 +35,7 @@
   - Minimal defensive terrain around contested income sources
   - Diagonal fronts
   - X > 2 tile choke points
-- Are fronts at least 1 tank turn wide, or if they aren't, do they at least have interesting decisions?
+- Are fronts at least 1 tank turn wide, or if they aren't, are they at least interesting?
 - Is there a reasonable number of unique features?
   - Airports (usually 1-2)
   - Com towers (Usually 1-2 per player)
