@@ -16,6 +16,7 @@
     - EX: Very easily accesible missile silos
     - EX: HQs that one player can rush before the other can defend
     - EX: A base where saving up enough money to build a piperunner wins the game with no counterplay
+    - EX: Bases and Airports that can be locked by Rockets, Artillary, or Missiles without significant effort
 - Are some of the income sources contested?
 - Is the income to base ratio not absurd? (EX: Income is not 40,000 Income per base)
 - Is the number of unique features not absurd? (EX: 50 Com towers)
