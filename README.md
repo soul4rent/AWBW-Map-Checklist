@@ -45,4 +45,4 @@
 - Is the income to base ratio reasonable? (2 Bases: 6k-11k, 3 Bases: 5k - 9k)
 - If your map has pipe seams, does breaking them provide a reasonable amount of value (Not too much "instant win")?
 - Is there an even number of contested properties across all fronts?
-- If the map is an island hopping map, is there at least features that encourage dynamic play (some pre-deployed landers so it isn't only infantry and air, larger islands multiple tank turns in size from the landing points, etc)
+- If the map is an island hopping map, is there at least features that encourage dynamic play? (some pre-deployed landers so it isn't only infantry and air, larger islands multiple tank turns in size from the landing points, etc)
