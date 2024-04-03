@@ -1,5 +1,10 @@
 # AWBW-Map-Checklist
 
+If a map meets all checklist items under the C rank checklist, a map can be safely marked C rank.
+If most of the checklist items under the B rank checklist are marked, the map will likely be marked "New".
+
+For A ranks and above, ranking maps is extremely difficult due to the complexity of competative play.
+
 ## Standard C Rank Map Checklist
 - Is the map mirrored in some form?
 - Are there no contested bases?
@@ -52,7 +57,7 @@
 - Are heavily contested bases placed in the middle of both player's tank turns?
 
 ## Standard A Rank Map Checklist
-Note: This is where map ranking becomes a lot more subjective and difficult to rank. Interesting B rank maps are often picked for tournaments, and if people like them, they are promoted to A rank and vice versa.
+Note: This is where map ranking becomes a lot more difficult and subjective to rank. Interesting B rank maps are often picked for tournaments, and if people like them, they are promoted to A rank and vice versa.
 
 - Does the map have a ABBA or BAAB opening order for the optimal vehicle, without specific FTA cheese strats?
     - If the map has a battlecopter opening, does it not force FTA by requiring an AA to be built for first vehicle?
