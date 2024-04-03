@@ -13,7 +13,7 @@
 - Is the map reasonably playble?
   - Is there some sort of interaction or threat before turn 10?
   - Are there no obvious cheese strategies, or strategies that have significant first or second turn advantage?
-    - EX: Very easily accesible missile silos
+    - EX: Very easily accessible missile silos
     - EX: HQs that one player can rush before the other can defend
     - EX: A base where saving up enough money to build a piperunner wins the game with no counterplay
     - EX: Bases and Airports that can be locked by Rockets, Artillary, or Missiles without significant effort
