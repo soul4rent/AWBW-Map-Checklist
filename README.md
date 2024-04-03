@@ -18,6 +18,7 @@
     - EX: A base where saving up enough money to build a piperunner wins the game with no counterplay
     - EX: Bases and Airports that can be locked by Rockets, Artillary, or Missiles without significant effort
 - Are some of the income sources contested?
+- Are some of the income sources reasonably safe?
 - Is the income to base ratio not absurd? (EX: Income is not 40,000 Income per base)
 - Is the number of unique features not absurd? (EX: 50 Com towers)
 - Are most cities spaced out more than 1 tile away from eachother?
