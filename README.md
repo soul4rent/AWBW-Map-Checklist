@@ -60,4 +60,4 @@ Note: This is where map ranking becomes a lot more subjective and difficult to r
 - Are there many choices made throughout the map, most of which are non-obvious?
 - Is there a mostly equal number of income sources reachable by each base?
 - Is there an even number of contested properties across all fronts?
-
+- Is there a proper front switching balance between purely open "Deathball" fronts and isolated "Pure damage race" fronts?
