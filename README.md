@@ -9,7 +9,7 @@
 - Are there no instant win features?
 - Are FTA counters implemented properly?
   - Does one exist for the number of bases?
-- Are fronts at least 1 tank turn wide, or are they at least interesting?
+- Are fronts at least several tiles wide?
 - Is the map reasonably playble?
   - Is there some sort of interaction or threat before turn 10?
   - Are there no obvious cheese strategies, or strategies that have significant first or second turn advantage?
@@ -35,6 +35,7 @@
   - Minimal defensive terrain around contested income sources
   - Diagonal fronts
   - X > 2 tile choke points
+- Are fronts at least 1 tank turn wide, or if they aren't, do they at least have interesting decisions?
 - Is there a reasonable number of unique features?
   - Airports (usually 1-2)
   - Com towers (Usually 1-2 per player)
