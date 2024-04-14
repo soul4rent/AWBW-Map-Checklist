@@ -55,6 +55,7 @@ For A ranks and above, ranking maps is extremely difficult due to the complexity
 - Is the income difference between capture phases for each base not absurd? (EX: strong side bases have 20 cities, weak side base has 5 cities)
 - Is the map somewhat readable and not extremely busy?
 - Are heavily contested bases placed in the middle of both player's tank turns?
+- Are players not forced to build transports to reasonably access most contested areas of the map?
 
 ## Standard A Rank Map Checklist
 Note: This is where map ranking becomes a lot more difficult and subjective to rank. Interesting B rank maps are often picked for tournaments, and if people like them, they are promoted to A rank and vice versa.
