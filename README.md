@@ -38,7 +38,7 @@ For A ranks and above, ranking maps is extremely difficult due to the complexity
 - Are there several interesting decisions when moving throughout the map?
 - Can players front switch to some degree?
 - Do fronts (in general) have non-stally features such as:
-  - Minimal defensive terrain around contested income sources
+  - Minimal defensive terrain around contested income sources, or defensive terrain that encourages aggression?
   - Diagonal fronts
   - X > 2 tile choke points
 - Are fronts at least 1 tank turn wide, or if they aren't, are they at least interesting?
