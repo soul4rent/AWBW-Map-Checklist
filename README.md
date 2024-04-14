@@ -60,7 +60,7 @@ For A ranks and above, ranking maps is extremely difficult due to the complexity
 Note: This is where map ranking becomes a lot more difficult and subjective to rank. Interesting B rank maps are often picked for tournaments, and if people like them, they are promoted to A rank and vice versa.
 
 - Does the map have a ABBA or BAAB opening order for the optimal vehicle, without specific FTA cheese strats?
-    - If the map has a battlecopter opening, does it not force FTA by requiring an AA to be built for first vehicle?
+    - If the map has a fast airport or battlecopter opening, does it not force FTA by requiring an AA to be built for first vehicle?
 - Is defensive terrain placed in locations that make the map more interesting to play?
 - Does the map allow multiple expressions of playstyles? (EX: A defensive playstyle vs an "all out attack" playstyle)
 - Are there many choices made throughout the map, most of which are non-obvious?
