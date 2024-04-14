@@ -67,3 +67,4 @@ Note: This is where map ranking becomes a lot more difficult and subjective to r
 - Is there a mostly equal number of income sources reachable by each base?
 - Is there an even number of contested properties across all fronts?
 - Is there a proper front switching balance between purely open "Deathball" fronts and isolated "Pure damage race" fronts?
+- If your map has a heavily contested tower, is it NOT along the edge of the map where it's annoying to flip?
