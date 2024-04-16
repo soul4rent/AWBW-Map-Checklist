@@ -5,6 +5,8 @@ If most of the checklist items under the B rank checklist are marked, the map wi
 
 For A ranks and above, ranking maps is extremely difficult due to the complexity of competative play.
 
+Exceptions apply to many of the list items.
+
 ## Standard C Rank Map Checklist
 - Is the map mirrored in some form?
 - Are there no contested bases?
@@ -20,6 +22,7 @@ For A ranks and above, ranking maps is extremely difficult due to the complexity
     - EX: HQs that one player can rush before the other can defend
     - EX: A base where saving up enough money to build a piperunner wins the game with no counterplay
     - EX: Bases and Airports that can be locked by Rockets, Artillary, or Missiles without significant effort
+    - EX: A bunch of easily accessed predeployed non-transport units
 - Are some of the income sources contested?
 - Are some of the income sources reasonably safe?
 - Is the income to base ratio not absurd? (EX: Income is not 40,000 Income per base)
