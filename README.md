@@ -68,7 +68,6 @@ Note: This is where map ranking becomes a lot more difficult and subjective to r
 - Is defensive terrain placed in locations that make the map more interesting to play?
 - Does the map allow multiple expressions of playstyles? (EX: A defensive playstyle vs an "all out attack" playstyle)
 - Are there many choices made throughout the map, most of which are non-obvious?
-- Is there a mostly equal number of income sources reachable by each base?
+- Is the value of each base players play on roughly equal in value?
 - Is there an even number of contested properties across all fronts?
 - Is there a proper front switching balance between purely open "Deathball" fronts and isolated "Pure damage race" fronts?
-- If your map has a heavily contested tower, is it NOT along the edge of the map where it's annoying to flip?
