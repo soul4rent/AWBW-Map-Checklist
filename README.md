@@ -70,5 +70,5 @@ Note: This is where map ranking becomes a lot more difficult and subjective to r
 - Does the map allow multiple expressions of playstyles? (EX: A defensive playstyle vs an "all out attack" playstyle)
 - Are there many choices made throughout the map, most of which are non-obvious?
 - Is the value of each base players play on roughly equal in value?
-- Is there an even number of contested properties across all fronts?
+- Is there an even (not odd) number of contested properties across all fronts?
 - Is there a proper front switching balance between purely open "Deathball" fronts and isolated "Pure damage race" fronts?
