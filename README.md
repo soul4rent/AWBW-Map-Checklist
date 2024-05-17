@@ -64,6 +64,7 @@ Exceptions apply to many of the list items.
 ## Standard A Rank Map Checklist
 Note: This is where map ranking becomes a lot more difficult and subjective to rank. Interesting B rank maps are often picked for tournaments, and if people like them, they are promoted to A rank and vice versa.
 
+- Are there enough non-obvious choices for players to make throughout the map?
 - Does the map have a ABBA or BAAB opening order for the optimal vehicle, without specific FTA cheese strats?
     - If the map has a fast airport or battlecopter opening, does it not force FTA by requiring an AA to be built for first vehicle?
 - Is defensive terrain placed in locations that make the map more interesting to play?
