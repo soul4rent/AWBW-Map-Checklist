@@ -60,6 +60,7 @@ Exceptions apply to many of the list items.
 - Is the map somewhat readable and not extremely busy?
 - Are players not forced to build transports to reasonably access most contested areas of the map?
 - Do most of the map features work as intended? (EX: Is it optimal to interact with most of the features of a map instead of ignoring them and rushing HQ)
+- Are there cheese strategies that cause massive FTA (EX: Day 3 recon)
 
 ## Standard A Rank Map Checklist
 Note: This is where map ranking becomes a lot more difficult and subjective to rank. Interesting B rank maps are often picked for tournaments, and if people like them, they are promoted to A rank and vice versa.
