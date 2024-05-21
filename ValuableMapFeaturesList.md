@@ -1,12 +1,22 @@
 # Valuable Map Features List
 
-+++: Extremely Valuable (Do not make contested under most circumstances. Possible instant win situations)
+!: Extremely Valuable (Do not put in heavily contested under most circumstances. Possible instant win situations)
 
 ++: Very Valuable
 
 +: Valuable
 
 -: Value Reduced
+
+| Property Types | Value |
+| ---------------| --- |
+| Bases          | !   |
+| ---------------| --- |
+| Airports       | !   |
+| ---------------| --- |
+| Opponent HQs   | !   |
+
+
 
 
 - Bases: +++
