@@ -1,4 +1,4 @@
-# Valuable Map Features List
+# Valuable Map Features List + Rough Value Estimater
 
 Values can be added together for an extremely rough estimate of how valueable something is on the map.
 For instance, a city (+) that's chained (+) in a constested area (+) is likely more valuable than an Isolated City (+) that requires a transport to access (-).
