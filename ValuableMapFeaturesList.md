@@ -1,19 +1,24 @@
 # Valuable Map Features List
 
-!: Extremely Valuable (Do not put in heavily contested under most circumstances. Possible instant win situations)
-
-++: Very Valuable
-
-+: Valuable
-
--: Value Reduced
+| Value Rating | Explanation |
+| --- | --- |
+| X | Game warping. Do not add to maps in most circumstances.
+| ! | Absurdly Valuable (Properties in this rating should not be put in heavily contested areas under most circumstances. Possible instant win situations)
+| ++ | Very Valuable |
+| + | Valuable |
+| 0 | Negligable Value |
+| - | Negative Value |
 
 | Property Types | Value |
 | ---------------| --- |
-| Bases          | !   |
-| Airports       | !   |
-| Opponent HQs   | !   |
-
+| Missile Silos  | X |
+| Bases          | ! |
+| Airports       | ! |
+| Opponent HQs   | ! |
+| 
+| Com Towers     | ++  |
+| Ports | + |
+| Cities | + |
 
 
 
