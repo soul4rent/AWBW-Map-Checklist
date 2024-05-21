@@ -18,6 +18,7 @@
 | Com Towers     | ++  |
 | Ports | + |
 | Cities | + |
+| Labs | 0 |
 
 
 
