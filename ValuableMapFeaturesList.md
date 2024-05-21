@@ -1,9 +1,12 @@
 # Valuable Map Features List
 
+Values can be added together for an extremely rough estimate of how valueable something is on the map.
+For instance, a city (+) that's chained (+) in a constested area (+) is likely more valuable than an Isolated City (+) that requires a transport to access (-).
+
 | Value Rating | Explanation |
 | --- | --- |
 | X | Game warping. Do not add to maps in most circumstances.
-| ++++ | Absurdly Valuable (Properties in this rating should not be put in heavily contested areas under most circumstances. Possible instant win situations)
+| ++++ | Absurdly Valuable (Properties with this base rating should not be put in heavily contested areas under most circumstances. Possible instant win situations)
 | ++ | Very Valuable |
 | + | Valuable |
 | 0 | Negligable Value |
@@ -35,3 +38,4 @@
 | Feature Void Area (Minimal other valuable features in the area) | - |
 | Requires Significant Aggressive Action to Unlock (EX: Pipe Seam, Black boat) | - |
 | Requires Transport to Access | - | 
+| Away from a constested area | - |
