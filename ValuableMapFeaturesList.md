@@ -15,7 +15,6 @@
 | Bases          | ! |
 | Airports       | ! |
 | Opponent HQs   | ! |
-| 
 | Com Towers     | ++  |
 | Ports | + |
 | Cities | + |
