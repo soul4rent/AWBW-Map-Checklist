@@ -14,12 +14,15 @@
 | Missile Silos  | X |
 | Bases          | ! |
 | Opponent HQs   | ! |
+| Opponent Owned Lab (Only one on map) | ! |
 | Airports       | ++ |
 | Com Towers     | ++  |
+| Opponent 
 | Opponent Owned Cities (Be careful about TA) | ++ |
 | Ports | + |
 | Cities | + |
-| Labs | 0 |
+| Neutral Labs (No HQs) | + |
+| Labs (With HQs) | 0 |
 
 | Location Types | Value |
 | -------------- | --- |
