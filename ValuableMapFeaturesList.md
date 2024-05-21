@@ -16,12 +16,12 @@
 | Opponent HQs   | ! |
 | Opponent Owned Lab (Only one on map) | ! |
 | Airports       | ++ |
-| Com Towers     | ++  |
-| Opponent 
+| Opponent Owned Labs (Multiple on map) | ++ (Varies) | 
 | Opponent Owned Cities (Be careful about TA) | ++ |
+| Com Towers     | ++  |
 | Ports | + |
 | Cities | + |
-| Neutral Labs (No HQs) | + |
+| Neutral Labs (No HQs) | + (Varies) |
 | Labs (With HQs) | 0 |
 
 | Location Types | Value |
