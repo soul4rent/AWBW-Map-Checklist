@@ -13,13 +13,19 @@
 | ---------------| --- |
 | Missile Silos  | X |
 | Bases          | ! |
-| Airports       | ! |
 | Opponent HQs   | ! |
+| Airports       | ++ |
 | Com Towers     | ++  |
 | Opponent Owned Cities (Be careful about TA) | ++ |
 | Ports | + |
 | Cities | + |
 | Labs | 0 |
+
+| Location Types | Value |
+| -------------- | --- |
+| Contested Areas | + |
+| Chained with other properties | + |
+| 
 
 
 
