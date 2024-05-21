@@ -17,6 +17,7 @@
 - Ports: +
 - Individual Non-Chain Properties: +
 - Front switching areas, and areas with high coverage (EX: Mid): +
+- Contested Areas: +
 - Feature void areas: -
 - Area requires transport to access: -
 - Area blocked behind pipe seam, or other significant aggressive effort: -
