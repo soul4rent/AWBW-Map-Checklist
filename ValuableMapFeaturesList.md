@@ -32,7 +32,7 @@ For instance, a city (+) that's chained (+) in a constested area (+) is likely m
 | Feature Location Types | Value |
 | -------------- | --- |
 | Front Switching or High Coverage Area (EX: Mid) | + |
-| Contested Area | + |
+| Contested Area / Towards Contested Area | + |
 | Chained with other worthwhile properties | + |
 | Isolated (no chains with other worthwile properties, valuable features 2-3 infantry turns away) | 0 |
 | Feature Void Area (Minimal other valuable features in the area) | - |
