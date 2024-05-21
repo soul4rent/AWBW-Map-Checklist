@@ -11,6 +11,7 @@
 
 - Bases: +++
 - Airports: +++
+- Opponent's HQs: +++
 - Com Towers: ++
 - Property Chains: ++
 - Ports: +
@@ -18,4 +19,4 @@
 - Front switching areas, and areas with high coverage (EX: Mid): +
 - Feature void areas: -
 - Area requires transport to access: -
-- Area blocked behind pipe seam: -
+- Area blocked behind pipe seam, or other significant aggressive effort: -
