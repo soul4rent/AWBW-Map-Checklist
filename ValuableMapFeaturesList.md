@@ -16,6 +16,7 @@
 | Airports       | ! |
 | Opponent HQs   | ! |
 | Com Towers     | ++  |
+| Opponent Owned Cities (Be careful about TA) | ++ |
 | Ports | + |
 | Cities | + |
 | Labs | 0 |
