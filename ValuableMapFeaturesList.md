@@ -1,14 +1,19 @@
 # Valuable Map Features List
 
-+++: Extremely Valuable (Do not contest under most circumstances. Possible instant win situations)
++++: Extremely Valuable (Do not make contested under most circumstances. Possible instant win situations)
+
 ++: Very Valuable
+
 +: Valuable
+
 -: Value Reduced
+
 
 - Bases: +++
 - Airports: +++
-- Ports: +
 - Com Towers: ++
 - Property Chains: ++
-- Individual Properties: +
-- Features near 
+- Ports: +
+- Individual Non-Chain Properties: +
+- Front switching areas, and areas with high coverage (EX: Mid): +
+- Feature void areas: -
