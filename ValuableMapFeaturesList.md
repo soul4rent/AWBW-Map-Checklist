@@ -35,7 +35,7 @@ For instance, a city (+) that's chained (+) in a constested area (+) is likely m
 | Contested Area / Towards Contested Area | + |
 | Chained with other worthwhile properties | + |
 | Isolated (no chains with other worthwile properties, valuable features 2-3 infantry turns away) | 0 |
-| Property Requires Significant effort to contest (EX: Easily defended choke point | - |
+| Property Requires Significant effort to contest (EX: Behind an Opponent's Easily defended choke point | - |
 | Feature Void Area (Minimal other valuable features in the area) | - |
 | Requires Significant Aggressive Action to Unlock (EX: Pipe Seam, Black boat) | - |
 | Requires Transport to Access | - | 
