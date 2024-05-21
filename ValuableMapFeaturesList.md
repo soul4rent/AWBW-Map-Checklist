@@ -11,9 +11,7 @@
 | Property Types | Value |
 | ---------------| --- |
 | Bases          | !   |
-| ---------------| --- |
 | Airports       | !   |
-| ---------------| --- |
 | Opponent HQs   | !   |
 
 
