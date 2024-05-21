@@ -1,7 +1,7 @@
 # Valuable Map Features List + Rough Value Estimater
 
 Values can be added together for an extremely rough estimate of how valueable something is on the map.
-For instance, a city (+) that's chained (+) in a constested area (+) is likely more valuable than an Isolated City (+) that requires a transport to access (-).
+For instance, a city (+) that's chained with other valuable properties (+) in a constested area (+) is likely more valuable than an isolated city (+) that requires a transport to access (-).
 
 Note that there are almost always numerous exceptions to everything.
 
