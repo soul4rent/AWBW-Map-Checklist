@@ -9,9 +9,9 @@
 | 0 | Negligable Value |
 | - | Negative Value |
 
-| Property Types | Value |
+| Feature Types | Value |
 | ---------------| --- |
-| Missile Silos  | X |
+| Loaded Missile Silos  | X |
 | Bases          | ! |
 | Opponent HQs   | ! |
 | Opponent Owned Lab (Only one on map) | ! |
@@ -23,12 +23,19 @@
 | Cities | + |
 | Neutral Labs (No HQs) | + (Varies) |
 | Labs (With HQs) | 0 |
+| High defense terrain | 0 |
+| Low defense terrain | - |
 
-| Location Types | Value |
+| Feature Location Types | Value |
 | -------------- | --- |
-| Contested Areas | + |
-| Chained with other properties | + |
-| 
+| Front Switching or High Coverage Area (EX: Mid) | + |
+| Contested Area | + |
+| Chained with other worthwhile properties | + |
+| Isolated (no chains with other worthwile properties, valuable features 2-3 infantry turns away) | 0 |
+| Feature Void Area (Minimal other valuable features in the area) | - |
+| Requires Significant Aggressive Action to Unlock (EX: Pipe Seam, Black boat) | - |
+| Requires Transport to Access | - |  
+
 
 
 
