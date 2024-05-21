@@ -33,6 +33,7 @@ Note that there are almost always numerous exceptions to everything.
 
 | Feature Location Types | Value |
 | -------------- | --- |
+| Pivot Point | + |
 | Front Switching or High Coverage Area (EX: Mid) | + |
 | Contested Area / Towards Contested Area | + |
 | Chained with other worthwhile properties | + |
