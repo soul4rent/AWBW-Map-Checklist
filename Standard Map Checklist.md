@@ -63,7 +63,7 @@ Exceptions apply to many of the list items.
 - Are there cheese strategies that cause massive FTA (EX: Day 3 recon)
 
 ## Standard A Rank Map Checklist
-Note: This is where map ranking becomes a lot more difficult and subjective to rank. Interesting B rank maps are often picked for tournaments, and if people like them, they are promoted to A rank and vice versa.
+Note: This is where map ranking becomes a lot more difficult and subjective to rank. Interesting B rank maps are often picked for tournaments, and if people like them, they are promoted to A rank. Additionally, it is very possible for an A rank candidate map to be demoted upon finding major issues such as stalling.
 
 - In general, are tanks or very important vehicles unable to park on very defensive terrain at full movement, causing stalls?
 - Are there enough non-obvious choices for players to make throughout the map?
