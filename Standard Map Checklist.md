@@ -42,7 +42,7 @@ Exceptions apply to many of the list items.
 - Are there several interesting decisions when moving throughout the map?
 - Can players front switch to some degree?
 - Do fronts (in general) have non-stally features such as:
-  - Defensive terrain that encourages aggression (Make sure full tank turns can't sit on important cities!)
+  - Defensive terrain that encourages aggression
   - Diagonal fronts
   - X > 2 tile choke points
 - Are there fronts that are wide enough (usually one tank turn), or if they aren't, are they at least interesting?
@@ -65,6 +65,7 @@ Exceptions apply to many of the list items.
 ## Standard A Rank Map Checklist
 Note: This is where map ranking becomes a lot more difficult and subjective to rank. Interesting B rank maps are often picked for tournaments, and if people like them, they are promoted to A rank and vice versa.
 
+- In general, are tanks or very important vehicles unable to park on very defensive terrain at full movement, causing stalls?
 - Are there enough non-obvious choices for players to make throughout the map?
 - Does the map have a ABBA or BAAB opening order for the optimal vehicle, without specific FTA cheese strats?
     - If the map has a fast airport or battlecopter opening, does it not force FTA by requiring an AA to be built for first vehicle?
@@ -72,5 +73,5 @@ Note: This is where map ranking becomes a lot more difficult and subjective to r
 - Does the map allow multiple expressions of playstyles? (EX: A defensive playstyle vs an "all out attack" playstyle)
 - Are there many choices made throughout the map, most of which are non-obvious?
 - Is the value of each base players play on roughly equal in value?
-- Is there an even (not odd) number of contested properties across all fronts?
+- Is there an even (not odd) number of important contested properties across all fronts?
 - Is there a proper front switching balance between purely open "Deathball" fronts and isolated "Pure damage race" fronts?
