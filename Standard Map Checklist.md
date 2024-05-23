@@ -42,7 +42,7 @@ Exceptions apply to many of the list items.
 - Are there several interesting decisions when moving throughout the map?
 - Can players front switch to some degree?
 - Do fronts (in general) have non-stally features such as:
-  - Minimal or strategically placed defensive terrain around contested income sources, or defensive terrain that encourages aggression?
+  - Defensive terrain that encourages aggression (Make sure full tank turns can't sit on important cities!)?
   - Diagonal fronts
   - X > 2 tile choke points
 - Are there fronts that are wide enough (usually one tank turn), or if they aren't, are they at least interesting?
