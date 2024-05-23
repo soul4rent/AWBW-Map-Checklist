@@ -20,7 +20,7 @@ Note that there are almost always numerous exceptions to everything.
 | Bases          | ++++ |
 | Opponent HQs   | ++++ |
 | Opponent Owned Lab (Only one on map) | ++++ |
-| Airports (be careful about making contested)       | ++ |
+| Airports (Be careful about making contested)       | ++ |
 | Opponent Owned Labs (Multiple on map, no HQs) | ++ (Varies) | 
 | Opponent Owned Cities (Be careful about TA) | ++ |
 | Com Towers     | ++  |
