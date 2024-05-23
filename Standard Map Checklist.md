@@ -67,6 +67,9 @@ Note: This is where map ranking becomes a lot more difficult and subjective to r
 
 - In general, are tanks or very important vehicles unable to park on very defensive terrain at full movement, causing stalls?
 - Are there enough non-obvious choices for players to make throughout the map?
+    - EX: An interesting capture phase with lots of options
+    - EX: Important tactical decisions, such as when to unlock a pipe seam.
+- Is the map dynamic, meaning it doesn't play the exact same throughout the entire match?
 - Does the map have a ABBA or BAAB opening order for the optimal vehicle, without specific FTA cheese strats?
     - If the map has a fast airport or battlecopter opening, does it not force FTA by requiring an AA to be built for first vehicle?
 - Is defensive terrain placed in locations that make the map more interesting to play?
