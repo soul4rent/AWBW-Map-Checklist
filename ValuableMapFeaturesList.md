@@ -40,6 +40,6 @@ Note that there are almost always numerous exceptions to everything.
 | Isolated (no chains with other worthwile properties, valuable features 2-3 infantry turns away) | 0 |
 | Property Requires Significant effort to contest (EX: Behind an Opponent's Easily defended choke point | - |
 | Feature Void Area (Minimal other valuable features 2-3 turns away from the area) | - |
-| Requires Significant Aggressive Action to Unlock (EX: Pipe Seam, Black boat) | - |
+| Requires Significant Aggressive Action to Unlock (EX: Pipe Seam, Destroying a Black boat) | - |
 | Requires Transport to Access | - | 
 | Away from a constested area | - |
