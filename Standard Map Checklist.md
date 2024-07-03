@@ -2,7 +2,7 @@
 
 If a map meets all checklist items under the C rank checklist, a map can usually be safely marked a minimum of C rank.
 
-If most of the checklist items under the B rank checklist are marked, the map will likely be marked "New".
+If most of the checklist items under the B rank checklist are marked, the map will likely be marked B rank or "New".
 
 For A ranks and above, ranking maps is extremely difficult due to the complexity of competative play.
 
