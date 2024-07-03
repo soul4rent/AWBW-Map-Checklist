@@ -43,3 +43,4 @@ Note that there are almost always numerous exceptions to everything.
 | Requires Significant Aggressive Action to Unlock (EX: Pipe Seam, Destroying a Black boat) | - |
 | Requires Transport to Access | - | 
 | Away from a constested area | - |
+| Protected by an enemy unit (EX: Brush with death) | - |
