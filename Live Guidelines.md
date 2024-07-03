@@ -18,7 +18,7 @@ A more subjective criteria, but this means "If I am a player and I bumble throug
 - Making areas of the map a lot less valuable than others: In general, all contested areas of the map should attempt to be somewhat similar in value. If you don't know how to make areas of a map more or less valuable, you can reference the valuable map features guide.
 - Capture phases where you are expected to build transports (potentially fine in fog): Fine on some maps, but in general adding a forced expected transport build can add a ton of complexity and required prior map knowledge.
 
-## At most ~20k income (standard and fog)
+## At most ~20k income (Standard and Fog)
 
 There are very very few exceptions to this rule.
 
