@@ -37,6 +37,7 @@ Exceptions apply to many of the list items.
 - Is there some amount of terrain variety? (EX: The map isn't just all plains or all roads)
 
 ## Standard B Rank Map Checklist
+- Are there a reasonable number of contested properties? (Preferrably 4 or more)
 - Are there reasons to go specific places throughout the map? (Com towers, Airports, Contested Income Sources, Larger income sources, Lab Units)
     - If a player wins a single area, is the game still reasonably winnable in some fashion? (EX: No "Win mid, win game")
 - Are there several interesting decisions when moving throughout the map?
