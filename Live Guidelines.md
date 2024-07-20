@@ -32,4 +32,4 @@ With the small size of live maps, things can potentially stall. A LOT. By making
 
 ## No significant defensive chokes (chokes at ~40% distance to the other player) that preserve income outside of very strong 2v1 setups
 
-In live games, it is very easy for players to get scared and "wall off", causing stalling. Feel free to read the stall guide in this repo if you want to see other features that help prevent stalling.
+In live games, it is very easy for players to get scared and "wall off", causing stalling.
