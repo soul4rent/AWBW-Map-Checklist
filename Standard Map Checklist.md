@@ -37,6 +37,9 @@ Exceptions apply to many of the list items.
 
 ## Standard B Rank Map Checklist
 - Are there a reasonable number of contested properties? (Preferrably 4 or more)
+- Are there no features that cause large amounts of Turn Advantage?
+  - EX: Com Tower TA, where one player can safely capture a com tower and another player cannot.
+  - EX: An important property (city, com tower, etc) in the dead center of the map, and the map center isn't a "deadzone".
 - Are there reasons to go specific places throughout the map? (Com towers, Airports, Contested Income Sources, Larger income sources, Lab Units)
     - If a player wins a single area, is the game still reasonably winnable in some fashion? (EX: No "Win mid, win game")
 - Are there several interesting decisions when moving throughout the map?
