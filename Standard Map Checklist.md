@@ -28,7 +28,6 @@ Exceptions apply to many of the list items.
     - EX: Bases and Airports that can be locked by Rockets, Artillary, or Missiles without significant effort
     - EX: A bunch of easily accessed predeployed non-transport units
 - Are some of the income sources contested?
-- Are some of the income sources reasonably safe?
 - Is the income to base ratio not absurd? (EX: Income is not 40,000 Income per base)
 - Is the number of unique features not absurd? (EX: 50 Com towers)
 - Are most cities spaced out more than 1 tile away from eachother?
@@ -50,6 +49,7 @@ Exceptions apply to many of the list items.
 - Is there a reasonable number of unique features?
   - Airports (usually 1-2)
   - Com towers (Usually 1-2 per player)
+  - Somewhat varied terrain that encourages dynamic gameplay
 - Are HQs/Labs positioned in a place where they aren't easily contested, where the optimal strategy is to focus the HQ?
     - Is it possible for a player to push the Lab(s) or HQ(s) when they have a very large advantage to close out the game?
 - Are bases responsible for a reasonable number of fronts? (1-3 per base)
