@@ -14,11 +14,11 @@ Exceptions apply to many of the list items.
   - Is it proper for the number of bases, map type, etc.
 - Is the map mirrored in some form?
 - Are there no contested bases?
-- Are there no contested airports?
 - Are all bases at least 1.5 tank turns away from interaction?
 - Are all bases less than 5 tank turns away from interaction?
 - Are there no instant win features?
-- Are fronts at least several tiles wide?
+  - EX: Instantly cappable HQ
+- Are there multiple fronts?
 - Is the map reasonably playble?
   - Is there some sort of interaction or threat before turn 10?
   - Are there no obvious cheese strategies, or strategies that have significant first or second turn advantage?
