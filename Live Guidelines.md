@@ -28,7 +28,7 @@ A lot of FTA counters for High funds start players with very little starting inc
 
 ## At least 4 properties that can realistically belong to either player
 
-With the small size of live maps, things can potentially stall. A LOT. By making sure a lot of properties are contested, you can help encourage a lot of fighting. More fighting is always better than less fighting.
+With live maps, things can potentially stall. A LOT. By making sure a lot of properties are contested, you can help encourage a lot of fighting. More fighting is always better than less fighting.
 
 ## No significant defensive chokes (chokes at ~40% distance to the other player) that preserve income outside of very strong 2v1 setups
 
