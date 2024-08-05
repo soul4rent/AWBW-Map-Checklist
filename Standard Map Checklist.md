@@ -39,7 +39,6 @@ Exceptions apply to many of the list items.
 - Are most areas of the map reasonably used, and the unused areas "blocked off" by terrain? (EX: Sea tiles, mountains, pipes, large amounts of forest, etc)
 - Is there a reasonable number of pre-owned properties? (Likely just a few bases and an HQ/Lab)
 - Is there some amount of terrain variety? (EX: The map isn't just all plains or all roads)
-- Does the map treat "income chains" responsibly, in a way that doesn't encourage awful gameplay?
 
 ## Standard B Rank Map Checklist
 - Are there a reasonable number of contested properties? (Preferrably 4 or more)
@@ -70,6 +69,7 @@ Exceptions apply to many of the list items.
 - Do most of the map features work as intended? (EX: Is it optimal to interact with most of the features of a map instead of ignoring them and rushing HQ)
 - Are there cheese strategies that cause massive FTA (EX: Day 3 recon)
 - Does the map have a ABBA or BAAB opening order for the optimal vehicle, without specific FTA cheese strats?
+- Does the map treat "income chains" responsibly, in a way that doesn't encourage awful gameplay?
 
 ## Standard A Rank Map Checklist [Under Construction]
 Note: This is where map ranking becomes a lot more difficult and subjective to rank. Interesting B rank maps are often picked for tournaments, and if people like them, they are promoted to A rank. Additionally, it is very possible for an A rank candidate map to be demoted upon finding major issues such as stalling.
