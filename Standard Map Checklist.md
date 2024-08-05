@@ -39,6 +39,7 @@ Exceptions apply to many of the list items.
 - Are most areas of the map reasonably used, and the unused areas "blocked off" by terrain? (EX: Sea tiles, mountains, pipes, large amounts of forest, etc)
 - Is there a reasonable number of pre-owned properties? (Likely just a few bases and an HQ/Lab)
 - Is there some amount of terrain variety? (EX: The map isn't just all plains or all roads)
+- Does the map treat "income chains" responsibly, in a way that doesn't encourage awful gameplay?
 
 ## Standard B Rank Map Checklist
 - Are there a reasonable number of contested properties? (Preferrably 4 or more)
