@@ -1,8 +1,3 @@
-# UNDER CONSTRUCTION.
-
-
-
-
 # AWBW-Map-Checklist
 
 If a map meets all checklist items under the C rank checklist, a map can usually be safely marked a minimum of C rank.
