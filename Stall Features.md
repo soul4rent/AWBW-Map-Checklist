@@ -20,7 +20,7 @@
 | Narrow Fronts and Chokes | Chokes tend to stall VERY hard, and are very easy to wall off. If you have very narrow fronts, they tend to stall. A lot. |
 | Very Few Fronts to Fight On | If there's not a lot of places to fight, there's more opportunities for players to wall off all of those fronts. |
 | No Front Shifting | No front shifting means if a front becomes stally, there's very little way for it to become unstally. |
-| Poorly Placed Defensive Terrain | Defensive terrain is valuable to players, and they will park on it if it's available. Make sure defensive terrain isn't place on very important pivots, and Full Move tank turns can't park EXACTLY on important defensive terrain like cities and silos. |
+| Poorly Placed Defensive Terrain | Defensive terrain is valuable to players, and they will park on it if it's available. Make sure defensive terrain isn't placed on very important pivots, and Full Move tank turns can't park EXACTLY on important defensive terrain like cities and silos. |
 | More Bases and Airports | Most maps are 2-3 bases and 1-2 airports for a reason. Lots of units means lots of potential for stalling! |
 | More Turns Until Initial Aggressive Action | Most experienced mappers recommend maps have aggressive action before turn 10, and most maps having less than 4 tank turns until they start fighting eachother. More time to build up means more units, and more units means more potential to stall |
 | Symmetrical Base/Airport Layout | Ask a Map Committee member about Vulcan :^). If players can't attack into an advantage, they likely won't attack. Not attacking causes unit buildup, and unit buildup causes stalling. |
