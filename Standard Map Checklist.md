@@ -14,7 +14,7 @@ Exceptions apply to many of the list items.
   - Is it proper for the number of bases, map type, etc.
 - Is the map mirrored in some form?
 - Are there no contested bases?
-- Are all bases at least 1.5 tank turns away from interaction?
+- Are all bases at least 1.5 tank turns away from interaction? (Non-mixed base)
 - Are all bases less than 5 tank turns away from interaction?
 - Are there no instant win features?
   - EX: Instantly cappable HQ
