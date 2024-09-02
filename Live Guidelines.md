@@ -2,7 +2,7 @@
 
 ## Size: At most 22 tiles wide or tall, size <= 400 tiles heavily preferred.
 
-There are very few exceptions to this rule for standard and fog, but there is more leeway for high funds. As a rule of thumb, make a smaller maps.
+There are sometimes exceptions for standard and fog, but there is a lot more leeway for high funds. As a rule of thumb, make a smaller maps.
 **Make sure your player's bases are at most ~3.5 tank turns away from eachother.**
 
 ## If there are pre-deployed transports, don't have too many. They must be simple and obvious in how to use them.
@@ -20,7 +20,7 @@ A more subjective criteria, but this means "If I am a player and I bumble throug
 
 ## At most ~20k income (Standard and Fog)
 
-There are very very few exceptions to this rule.
+There are very very few exceptions to this guideline.
 
 ## At least 6k starting income (High funds)
 
