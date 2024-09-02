@@ -74,7 +74,7 @@ Note: This is where map ranking becomes a lot more difficult and subjective to r
     - EX: An interesting capture phase with lots of options
     - EX: Important tactical decisions, such as when to unlock a pipe seam.
 - Is the map dynamic, meaning aggressive action happens very frequently it doesn't play the exact same throughout the entire match?
-- If the map has a fast airport or battlecopter opening, does it not force FTA by requiring an AA to be built for first vehicle?
+- If the map has a fast airport or battlecopter opening, does it not force FTA by requiring an unaffordable AA to be built for first vehicle?
 - Is defensive terrain placed in locations that make the map more interesting to play?
 - Does the map allow multiple expressions of playstyles? (EX: A defensive playstyle vs an "all out attack" playstyle)
 - Are there many choices made throughout the map, most of which are non-obvious?
