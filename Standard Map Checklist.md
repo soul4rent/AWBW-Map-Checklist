@@ -6,7 +6,7 @@ If most of the checklist items under the B rank checklist are marked, the map wi
 
 For A ranks and above, ranking maps is extremely difficult due to the complexity of competative play.
 
-Exceptions apply to many of the list items.
+**Exceptions apply to many of the list items.**
 
 ## Standard C Rank Map Checklist
 - Are FTA counters implemented properly?
