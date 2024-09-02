@@ -1,4 +1,4 @@
-# AWBW-Map-Checklist
+# AWBW-Map-Guidelines-Checklist
 
 If a map meets all checklist items under the C rank checklist, a map can usually be safely marked a minimum of C rank.
 
@@ -6,7 +6,7 @@ If most of the checklist items under the B rank checklist are marked, the map wi
 
 For A ranks and above, ranking maps is extremely difficult due to the complexity of competative play.
 
-**Exceptions apply to many of the list items.**
+**Exceptions apply to many of the list items. ALL of these items are guidelines.**
 
 ## Standard C Rank Map Checklist
 - Are FTA counters implemented properly?
