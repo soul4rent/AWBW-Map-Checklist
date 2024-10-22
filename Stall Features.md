@@ -10,7 +10,7 @@
 | Less Bases and Airports | In order for a map to stall, it usually needs a lot of units on the map, such as a lot of infantry getting in the way. If your map is limited to 2-3 bases and 1-2 airports, it will be harder to create enough units to wall off areas. **Note: Base Light maps are less likely to stall, but are more "punishing" to play since unit count matters more.**|
 | Less Turns Until Initial Aggressive Action | How do you prevent people from building up a large number of units? Kill them off! More early aggressive action means more killed units! More killed units means less unit count! |
 | Asymmetrical or Dynamic Base/Airport Placement | Dynamic "Mixed Base" layouts tend not to stall, and asymmetrical non-mixed base layouts with more bases/airports on one side of the map tend not to stall. People attack when they have an advantage. |
-| Important Properties to Fight Over | Making some very important properties like com towers contested, or having very early contested properties means that players are less likely to wall and more likely to fight. After all, if they wall up, their opponent gets the important property instead of them! |
+| Important Properties and Areas to Fight Over | Making some very important properties like com towers contested, or having very early contested properties means that players are less likely to wall and more likely to fight. After all, if they wall up, their opponent gets the important property instead of them! |
 
 **Map Features that Promote Stalling:**
 
@@ -24,4 +24,4 @@
 | More Bases and Airports | Most maps are 2-3 bases and 1-2 airports for a reason. Lots of units means lots of potential for stalling! |
 | More Turns Until Initial Aggressive Action | Most experienced mappers recommend maps have aggressive action before turn 10, with most maps having less than 4 tank turns until playsers start fighting eachother. More time to build up means more units, and more units means more potential to stall |
 | Symmetrical Base/Airport Layout | Ask a Map Committee member about Vulcan :^). If players can't attack into an advantage, they likely won't attack. Not attacking causes unit buildup, and unit buildup causes stalling. |
-| Very few contested properties | Why attack when you can capture everything important, sit back, and relax until you gain an overwhelming advantage? |
+| Very few contested properties and areas | Why attack when you can capture everything important, sit back, and relax until you gain an overwhelming advantage? |
