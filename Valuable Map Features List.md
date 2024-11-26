@@ -54,4 +54,7 @@ Example:
 A city (+) in a contested area (+), on a pivot (+), chained with another city (+) is possibly more valuable than an airport (++) behind a pipe seam (-), on an island away from a contested area (-) that requires building a transport to access (-), after players have enough money for copters (+): Total: (++++) vs (+).
 
 Use common sense when determining points. High defense terrain tiles can't be "chained with other worthwhile properties" for instance!
-Features can have negative points - sometimes people just ignore things map makers think are valuable because it's too much effort. Also note that these are rough estimations - for instance, an airport on a base light map might be more important than usual.
+
+Features can have negative points - sometimes people take properties later than others, or even flat out ignore properties map makers think are valuable because it's too much effort.
+
+Also note that these are rough estimations - for instance, an airport on a base light map might be more important than usual.
