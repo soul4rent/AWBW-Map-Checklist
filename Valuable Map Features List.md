@@ -55,6 +55,6 @@ A city (+) in a contested area (+), on a pivot (+), chained with another city (+
 
 Use common sense when determining points. High defense terrain tiles can't be "chained with other worthwhile properties" for instance!
 
-Features can have negative points - sometimes people take properties later than others, or even flat out ignore properties map makers think are valuable because it's too much effort.
+Features can have negative points - sometimes people take certain properties later than others, or even flat out ignore properties map makers think are valuable because it's too much effort.
 
 Also note that these are rough estimations - for instance, an airport on a base light map might be more important than usual.
