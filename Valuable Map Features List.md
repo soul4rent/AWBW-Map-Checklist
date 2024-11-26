@@ -47,7 +47,8 @@ Note that there are almost always numerous exceptions to everything.
 **How to use:**
 Take a Tile from a feature type, and add the feature location types to it's value.
 
-Example: A city (+) in a contested area (+), on a pivot (+), chained with another city (+) is possibly more valuable than an airport (++) behind a pipe seam (-), on an island away from a contested area (-) that requires building a transport to access (-): Total: (++++) vs (0).
+Example:
+A city (+) in a contested area (+), on a pivot (+), chained with another city (+) is possibly more valuable than an airport (++) behind a pipe seam (-), on an island away from a contested area (-) that requires building a transport to access (-): Total: (++++) vs (0).
 
 Use common sense when determining points. High defense terrain tiles can't be "chained with other worthwhile properties" for instance!
 Features can have negative points - sometimes people just ignore things map makers think are valuable because it's too much effort.
