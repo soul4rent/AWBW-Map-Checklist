@@ -20,10 +20,10 @@ Note that there are almost always numerous exceptions to everything.
 | Bases          | +++++ |
 | Opponent HQs   | +++++ |
 | Opponent Owned Lab (Only one on map) | +++++ |
-| Airports | +++ |
 | Opponent Owned Labs (Multiple on map, no HQs) | +++ (Varies) | 
 | Opponent Owned Cities (Be careful about TA) | ++ |
-| Com Towers     | ++  |
+| Airports | ++ |
+| Com Towers     | +  |
 | Ports | + |
 | Cities | + |
 | Neutral Labs (No HQs) | + (Varies) |
@@ -31,11 +31,13 @@ Note that there are almost always numerous exceptions to everything.
 | High defense terrain | 0 |
 | Low defense terrain | - |
 
-| Feature Location Types | Value |
+| Feature Type Modifiers | Value |
 | -------------- | --- |
 | Pivot Point / Front Switching or High Coverage Area (EX: Mid) | + |
 | Contested Area / Towards Contested Area | + |
-| Chained with other worthwhile properties | + |
+| (Properties only) Chained with other worthwhile properties | + |
+| (Airports) After players have enough income to reasonably start building copters | + |
+| (Com towers) After enagements with opponent's units are reasonably expected to start taking place | + |
 | Isolated (no chains with other worthwile properties, valuable features 2-3 infantry turns away) | 0 |
 | Property Requires Significant effort to contest (EX: Behind an Opponent's Easily defended choke point) | - |
 | Feature Void Area (Minimal valuable features 2-3 turns away from the area) | - |
@@ -45,10 +47,11 @@ Note that there are almost always numerous exceptions to everything.
 | Protected by an enemy unit (EX: Brush with death) | - |
 
 **How to use:**
-Take a Tile from a feature type, and add the feature location types to it's value.
+Take a Tile from a feature type, and add the feature type modifier to it's value.
 
 Example:
 A city (+) in a contested area (+), on a pivot (+), chained with another city (+) is possibly more valuable than an airport (++) behind a pipe seam (-), on an island away from a contested area (-) that requires building a transport to access (-): Total: (++++) vs (0).
 
 Use common sense when determining points. High defense terrain tiles can't be "chained with other worthwhile properties" for instance!
-Features can have negative points - sometimes people just ignore things map makers think are valuable because it's too much effort.
+Features can have negative points - sometimes people just ignore things map makers think are valuable because it's too much effort. Also note that this is helpful for a rough estimation, and doesn't take into
+account people timing taking airports when they can start building copters and people timing com towers right before they start taking engagements.
