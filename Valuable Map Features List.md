@@ -1,4 +1,4 @@
-# Valuable Map Features List + Rough Value Estimater
+# Standard/Fog Valuable Map Features List + Rough Value Estimater
 
 Values can be added together for an extremely rough estimate of how valueable something is on the map.
 For instance, a city (+) that's chained with other valuable properties (+) in a constested area (+) is likely more valuable than an isolated city (+) that requires a transport to access (-).
@@ -17,11 +17,11 @@ Note that there are almost always numerous exceptions to everything.
 | Feature Types | Value |
 | ---------------| --- |
 | Loaded Missile Silos  | X |
-| Bases          | ++++ |
-| Opponent HQs   | ++++ |
-| Opponent Owned Lab (Only one on map) | ++++ |
-| Airports (Be careful about making contested)       | ++ |
-| Opponent Owned Labs (Multiple on map, no HQs) | ++ (Varies) | 
+| Bases          | +++++ |
+| Opponent HQs   | +++++ |
+| Opponent Owned Lab (Only one on map) | +++++ |
+| Airports | +++ |
+| Opponent Owned Labs (Multiple on map, no HQs) | +++ (Varies) | 
 | Opponent Owned Cities (Be careful about TA) | ++ |
 | Com Towers     | ++  |
 | Ports | + |
@@ -38,8 +38,16 @@ Note that there are almost always numerous exceptions to everything.
 | Chained with other worthwhile properties | + |
 | Isolated (no chains with other worthwile properties, valuable features 2-3 infantry turns away) | 0 |
 | Property Requires Significant effort to contest (EX: Behind an Opponent's Easily defended choke point) | - |
-| Feature Void Area (Minimal other valuable features 2-3 turns away from the area) | - |
+| Feature Void Area (Minimal valuable features 2-3 turns away from the area) | - |
 | Requires Significant Aggressive Action to Unlock (EX: Pipe Seam, Destroying a Black boat) | - |
 | Requires Transport to Access | - | 
 | Away from a constested area | - |
 | Protected by an enemy unit (EX: Brush with death) | - |
+
+**How to use:**
+Take a Tile from a feature type, and add the feature location types to it's value.
+
+Example: A city (+) in a contested area (+), on a pivot (+), chained with another city (+) is possibly more valuable than an airport (++) behind a pipe seam (-), on an island away from a contested area (-) that requires building a transport to access (-): Total: (++++) vs (0).
+
+Use common sense when determining points. High defense terrain tiles can't be "chained with other worthwhile properties" for instance!
+Features can have negative points - sometimes people just ignore things map makers think are valuable because it's too much effort.
