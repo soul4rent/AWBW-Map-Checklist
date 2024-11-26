@@ -47,7 +47,8 @@ Note that there are almost always numerous exceptions to everything.
 | Protected by an enemy unit (EX: Brush with death) | - |
 
 **How to use:**
-Take a Tile from a feature type, and add the feature type modifier to it's value.
+
+Take a Tile from a feature type, and add the feature type modifiers to it's value.
 
 Example:
 A city (+) in a contested area (+), on a pivot (+), chained with another city (+) is possibly more valuable than an airport (++) behind a pipe seam (-), on an island away from a contested area (-) that requires building a transport to access (-), after players have enough money for copters (+): Total: (++++) vs (+).
