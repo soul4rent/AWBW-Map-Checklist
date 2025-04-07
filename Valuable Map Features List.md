@@ -21,7 +21,6 @@ Note that there are almost always numerous exceptions to everything.
 | Opponent HQs   | +++++ |
 | Opponent Owned Lab (Only one on map) | +++++ |
 | Opponent Owned Labs (Multiple on map, no HQs) | +++ (Varies) | 
-| Opponent Owned Cities (Be careful about TA) | ++ |
 | Airports | ++ |
 | Com Towers, low income     | + |
 | Com Towers, higher income     | ++ |
@@ -34,6 +33,7 @@ Note that there are almost always numerous exceptions to everything.
 
 | Feature Type Modifiers | Value |
 | -------------- | --- |
+| Important, and owned by opponent | + |
 | Pivot Point / Front Switching or High Coverage Area (EX: Mid) | + |
 | Contested Area / Towards Contested Area | + |
 | (Properties only) Chained with other worthwhile properties | + |
