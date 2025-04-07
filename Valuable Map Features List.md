@@ -22,7 +22,7 @@ Note that there are almost always numerous exceptions to everything.
 | Opponent Owned Lab (Only one on map) | +++++ |
 | Opponent Owned Labs (Multiple on map, no HQs) | +++ (Varies) | 
 | Airports | ++ |
-| Com Towers, low income     | + |
+| Com Towers    | + |
 | Com Towers, higher income     | ++ |
 | Ports | + |
 | Cities | + |
