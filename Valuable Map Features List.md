@@ -23,7 +23,7 @@ Note that there are almost always numerous exceptions to everything.
 | Opponent Owned Labs (Multiple on map, no HQs) | +++ (Varies) | 
 | Opponent Owned Cities (Be careful about TA) | ++ |
 | Airports | ++ |
-| Com Towers     | +  |
+| Com Towers     | 10% of total income |
 | Ports | + |
 | Cities | + |
 | Neutral Labs (No HQs) | + (Varies) |
